@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div align="center">
-  <a href="https://github.com/tiago19deoliveira">
+  <a href="https://github.com/BNavegante">
   <img height="300em" src="https://github-readme-stats.vercel.app/api?username=tiago19deoliveira&show_icons=true&theme=aura&include_all_commits=true&count_private=true"/>
   <img height="196em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiago19deoliveira&layout=compact&langs_count=7&theme=aura"/>
 </div>
@@ -29,8 +29,8 @@ Here are some ideas to get you started:
   ##
 <div> 
   <a href="https://instagram.com/https://www.instagram.com/tiago.pach/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:tiago18deoliveira@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/tiago-de-oliveira-4a5481195/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:brendhonnavegante7@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/brendhon-navegante-queiroz-43528917a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
   ![Snake animation](https://github.com/tiago19deoliveira/tiago19deoliveira/blob/output/github-contribution-grid-snake.svg)
 </div>
